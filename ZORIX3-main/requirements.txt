@@ -1,0 +1,13 @@
+streamlit>=1.32,<2
+yfinance==0.2.66
+curl-cffi==0.15.0
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+ta>=0.11
+xgboost>=2.0
+lightgbm>=4.0
+hmmlearn>=0.3
+vaderSentiment>=3.3
+
